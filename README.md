@@ -40,8 +40,4 @@ Prints all customer records stored in the system.
 
 ---
 
-## 🛠️ How to Compile and Run
 
-### Compile:
-```bash
-gcc -o mall_bill_system bill.c
